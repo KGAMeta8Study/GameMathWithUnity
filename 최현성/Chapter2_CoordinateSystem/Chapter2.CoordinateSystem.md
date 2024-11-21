@@ -220,7 +220,11 @@ Unity에서는 **스크린 좌표**를 다음처럼 다룬다:
 
     $r=x2+y2,θ=arctan(xy)$
     
-    $r=x2+y2,θ=arctan⁡(yx)r = \sqrt{x^2 + y^2}, \quad \theta = \arctan\left(\frac{y}{x}\right)$
+    $r=x2+y2,θ=arctan⁡(yx)$
+
+    $r = \sqrt{x^2 + y^2}$
+   
+    $\theta = \arctan\left(\frac{y}{x}\right)$
     
 
 ### 특징
