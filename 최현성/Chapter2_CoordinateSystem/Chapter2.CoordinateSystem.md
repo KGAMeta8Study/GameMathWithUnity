@@ -214,17 +214,11 @@ Unity에서는 **스크린 좌표**를 다음처럼 다룬다:
 
 1. **극좌표 → 직교좌표**:
 
-    
-    $$
-    x=r⋅cos(θ),y=r⋅sin(θ)
-    $$
-    
-    $$
-    x=r⋅cos⁡(θ),y=r⋅sin⁡(θ)x = r \cdot \cos(\theta), \quad y = r \cdot \sin(\theta)
-    $$
+    $x=r⋅cos(θ),y=r⋅sin(θ)$
     
 2. **직교좌표 → 극좌표**:
-$r=x2+y2,θ=arctan(xy)$
+
+    $r=x2+y2,θ=arctan(xy)$
     
     $r=x2+y2,θ=arctan⁡(yx)r = \sqrt{x^2 + y^2}, \quad \theta = \arctan\left(\frac{y}{x}\right)$
     
